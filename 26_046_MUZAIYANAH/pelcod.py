@@ -1,3 +1,30 @@
+# TOTAL BELANJA
+
+# INPUT:
+# BUKU ; PULPEN ; BELANJA ; HARGA ; DISKON 
+
+# PROSES;
+# Menghitung humlah buku, 
+# jumlah pulpen, dan 
+# jumlah total belanja, 
+# total belanja setelah diskon 
+
+#CARANYA 
+# - Menghitung jumlah pulpen dan buku 
+# - Menghitung harga pulpen dan buku 
+# - menghitung total belanja belanja setelah diskon 
+
+# OUTPUT 
+# - Hitung total harga buku 
+# - Hitung total harga pulpen 
+# - Total diskon 
+# - Total bayar 
+
+
+# ===============================================================
+# ===============================================================
+
+
 jumlahBuku = 3
 hargaBuku = 15000
 jumlahPulpen = 2
